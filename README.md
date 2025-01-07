@@ -14,10 +14,12 @@ This project leverages deep learning to classify emotions from facial expression
 
 
 ## SELECTED MODEL EVALUATION
-- We choose the ResNet50v2 because of this performnce
-- **Train accuracy** = 70.51 , **Validation accuracy** = 65.20
-- It has been trained for around **130 epochs** over mutliple changes in various parameters
-- Various parameters include dyanmic weights feature, changing of the iniital learning rate of optimizer, introduction of Exponential Decay Learning Rate Scheduler and many more
+- We choose the ResNet50v2 because of this performnce:
+ - **Train accuracy** = 70.51 
+ - **Validation accuracy** = 65.20
+ - It has been trained for around **130 epochs** over mutliple changes in various parameters
+ - Various parameters include dyanmic weights feature, changing of the iniital learning rate of optimizer, introduction of Exponential Decay Learning Rate Scheduler and many more
+
 
 - Below are evaluation metrics used to test the Model Effiicency
 
