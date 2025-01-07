@@ -23,15 +23,15 @@ This project leverages deep learning to classify emotions from facial expression
 - Below are evaluation metrics used to test the Model Effiicency
 
 **Classification Report**
-- Price per sqft analysis done via Interactive Map 
+- Maximum F1 score for Happy class: 0.86
   <img src="images/classification_report.png" alt="Classification Report" width="600" />
 
 **Confusion Matrix**
-- Price per sqft analysis done via Interactive Map 
+- For Digust class : 68 classified correct out of 111 images in test data
   <img src="images/confusion_matrix.png" alt="Confusion Matrix" width="600" />
 
 **AUC-ROC Plot for each Class**
-- Price per sqft analysis done via Interactive Map 
+- Minimum ROC area value is 0.70 for sad class 
   <img src="images/auc-roc-curve.png" alt="AUC-ROC Plot for each Class" width="600" /> 
 
 
