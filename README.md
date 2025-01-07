@@ -23,12 +23,15 @@ This project leverages deep learning to classify emotions from facial expression
 - Below are evaluation metrics used to test the Model Effiicency
 
 **Classification Report**
+- Price per sqft analysis done via Interactive Map 
   <img src="images/classification_report.png" alt="Classification Report" width="600" />
 
 **Confusion Matrix**
+- Price per sqft analysis done via Interactive Map 
   <img src="images/confusion_matrix.png" alt="Confusion Matrix" width="600" />
 
 **AUC-ROC Plot for each Class**
+- Price per sqft analysis done via Interactive Map 
   <img src="images/auc-roc-curve.png" alt="AUC-ROC Plot for each Class" width="600" /> 
 
 
