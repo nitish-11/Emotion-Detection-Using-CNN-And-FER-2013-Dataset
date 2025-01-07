@@ -26,7 +26,7 @@ This project leverages deep learning to classify emotions from facial expression
   <img src="images/classification_report.png" alt="Classification Report" width="600" />
 
 **Confusion Matrix**
-  <img src="images/classification_report.png" alt="Confusion Matrix" width="600" />
+  <img src="images/confusion_matrix.png" alt="Confusion Matrix" width="600" />
 
 ** AUC-ROC Plot for each Class
   <img src="images/auc-roc-curve.png" alt="AUC-ROC Plot for each Class" width="600" /> 
