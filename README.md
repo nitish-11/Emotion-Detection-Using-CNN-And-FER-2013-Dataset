@@ -10,9 +10,11 @@ This project leverages deep learning to classify emotions from facial expression
 - **Model Optimization:** Designed and refined custom CNN models using TensorFlow and Keras, while incorporating advanced architectures like **VGG16** and **ResNet50v2** to improve accuracy and performance metrics.
 - **Performance Highlights:** Achieved **65% accuracy** and a **weighted-average F1-score** of 0.65 across 7 emotion categories with the ResNet50v2 model, showcasing strong results for minority classes, including F1-scores of 0.51 for Disgust and 0.77 for Surprise.
 - **Deployment** Deployed the model on **Hugging Face Spaces**, enabling users to upload images and receive emotion predictions with confidence scores for each category.
-- **[Interactive App Access](https://huggingface.co/spaces/nitish-11/emotion-is-detected-here)** *(click to open the webpage)*
+ - **[Interactive App Access](https://huggingface.co/spaces/nitish-11/emotion-is-detected-here)** *(click to open the webpage)*
 
 
+  - **[Check Out the Demonstration: Youtube Link](https://youtu.be/IdtJ1edir30?si=nWLTGIEW0HdAIa96)** *(check description for timestamps)*
+  
 ## SELECTED MODEL EVALUATION
 - We choose the ResNet50v2 because of this performnce:
 - **Train accuracy** = 70.51 and **Validation accuracy** = 65.20
