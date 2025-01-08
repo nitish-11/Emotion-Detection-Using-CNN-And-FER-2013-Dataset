@@ -9,7 +9,8 @@ This project leverages deep learning to classify emotions from facial expression
 
 - **Data Balancing:** Applied image augmentation techniques and calculated **dynamic class weights** to address **class imbalance** in the **FER-2013 dataset**, ensuring robust and reliable model training on a more balanced dataset.
 - **Model Optimization:** Designed and refined custom CNN models using TensorFlow and Keras, while incorporating advanced architectures like **VGG16** and **ResNet50v2** to improve accuracy and performance metrics.
-- **Performance Highlights:** Achieved **65% accuracy** and a **weighted-average F1-score** of 0.65 across 7 emotion categories with the ResNet50v2 model, showcasing strong results for minority classes, including F1-scores of 0.51 for Disgust and 0.77 for Surprise.
+- **Performance Highlights:** Achieved **65% accuracy** and a weighted-average **F1-score of 0.65** across 7 emotion categories, achieving F1-scores of **0.62** for
+neural and **0.77** for Surprise, **AUC-ROC** score of **0.70** for Sad and **0.80** for Digust with ResNet50v2.
 - **Deployment** Deployed the model on **Hugging Face Spaces**, enabling users to upload images and receive emotion predictions with confidence scores for each category.
 
 
